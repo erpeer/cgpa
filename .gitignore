@@ -1,0 +1,13 @@
+# Compiled binaries and build artifacts
+*.exe
+*.o
+*.obj
+*.out
+build/
+
+# Generated transcript output files
+transcript_*.txt
+transcript_*.csv
+
+# VS Code local settings (optional)
+.vscode/
